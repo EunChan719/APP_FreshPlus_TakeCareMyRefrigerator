@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'components/pages/intro_splash.dart';
 import 'components/init.dart';
 import 'package:logger/logger.dart';
-/**/
+
 var logger = Logger(
   printer: PrettyPrinter(),
 );
